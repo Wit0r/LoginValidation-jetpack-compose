@@ -1,2 +1,2 @@
 # LoginValidation-jetpack-compose
-<p> Language: <strong>Kotlin</strong></p>
+<h2> Language: <strong>Kotlin</strong></h2>
