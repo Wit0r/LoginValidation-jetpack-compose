@@ -1,2 +1,2 @@
 # LoginValidation-jetpack-compose
-<p> Language: Kotlin </p>
+<p> Language: **Kotlin** </p>
