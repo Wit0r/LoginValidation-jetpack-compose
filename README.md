@@ -1,7 +1,7 @@
-# LoginValidation-jetpack-compose
+## LoginValidation-jetpack-compose
 
-## Android version
+# Android version
 
-## Dependencies
+# Dependencies
 
 
