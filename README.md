@@ -1,3 +1,5 @@
 # LoginValidation-jetpack-compose
 
-<h2> Tela de login com o <p> Compose! <p> <h2>
+<h2> Tela de login com o compose! <h2>
+
+<code> implementation </code>
