@@ -1,7 +1,6 @@
 ## Login validation 
 
-![LoginValidation](https://user-images.githubusercontent.com/84216382/177020098-bcd98d1b-92b1-41e4-8f48-44770c3c2036.gif)
-
+<div> <img height ="500em" src="https://user-images.githubusercontent.com/84216382/177020098-bcd98d1b-92b1-41e4-8f48-44770c3c2036.gif">  </div>
 
 <p> Dependencies </p>
 
