@@ -1,4 +1,4 @@
-package com.example.loginvalidation.login
+package com.example.loginvalidation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -11,7 +11,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
-import com.example.loginvalidation.Screen
 import kotlinx.coroutines.delay
 
 @Composable

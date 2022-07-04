@@ -1,4 +1,4 @@
-package com.example.loginvalidation
+package com.example.loginvalidation.login.domain.Model
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

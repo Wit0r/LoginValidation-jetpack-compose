@@ -4,8 +4,6 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.loginvalidation.login.ScreenLogin
-import com.example.loginvalidation.login.SplashScreen
 
 sealed class Screen(val Route: String) {
     object Splash : Screen("Splash")

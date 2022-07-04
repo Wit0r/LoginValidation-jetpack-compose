@@ -1,4 +1,4 @@
-package com.example.loginvalidation.login
+package com.example.loginvalidation
 
 import android.widget.Toast
 import androidx.compose.foundation.layout.*
@@ -19,7 +19,7 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.loginvalidation.MainViewModel
+import com.example.loginvalidation.login.domain.Model.MainViewModel
 import com.example.loginvalidation.login.presentation.RegistrationFormEvent
 
 @Composable
